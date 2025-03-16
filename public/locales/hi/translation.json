@@ -1,0 +1,35 @@
+{
+  "welcome": {
+    "title": "किसी भी भाषा में बात करें",
+    "subtitle": "आपका AI सहायक जो आपकी भाषा बोलता है"
+  },
+  "features": {
+    "languages": {
+      "title": "100+ भाषाएं",
+      "description": "किसी भी भाषा में आसानी से संवाद करें"
+    },
+    "fileSupport": {
+      "title": "फ़ाइल समर्थन",
+      "description": "किसी भी भाषा में दस्तावेज़ साझा करें और चर्चा करें"
+    },
+    "smartResponses": {
+      "title": "स्मार्ट प्रतिक्रियाएं",
+      "description": "बुद्धिमान, संदर्भ-जागरूक प्रतिक्रियाएं प्राप्त करें"
+    }
+  },
+  "chat": {
+    "newChat": "नई चैट",
+    "searchChats": "चैट खोजें",
+    "closeSidebar": "साइडबार बंद करें",
+    "openSidebar": "साइडबार खोलें",
+    "connected": "कनेक्टेड",
+    "placeholder": "कुछ सोचिए...✦˚",
+    "send": "संदेश भेजें",
+    "attachFile": "फ़ाइल जोड़ें",
+    "addImage": "छवि जोड़ें"
+  },
+  "dates": {
+    "today": "आज",
+    "yesterday": "कल"
+  }
+} 

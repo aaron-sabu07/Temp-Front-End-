@@ -1,0 +1,35 @@
+{
+  "welcome": {
+    "title": "Speak Any Language",
+    "subtitle": "Your AI assistant that speaks your language"
+  },
+  "features": {
+    "languages": {
+      "title": "100+ Languages",
+      "description": "Communicate seamlessly in any language"
+    },
+    "fileSupport": {
+      "title": "File Support",
+      "description": "Share and discuss documents in any language"
+    },
+    "smartResponses": {
+      "title": "Smart Responses",
+      "description": "Get intelligent, context-aware responses"
+    }
+  },
+  "chat": {
+    "newChat": "New chat",
+    "searchChats": "Search chats",
+    "closeSidebar": "Close sidebar",
+    "openSidebar": "Open sidebar",
+    "connected": "Connected",
+    "placeholder": "Imagine Something...✦˚",
+    "send": "Send message",
+    "attachFile": "Attach file",
+    "addImage": "Add image"
+  },
+  "dates": {
+    "today": "Today",
+    "yesterday": "Yesterday"
+  }
+} 
